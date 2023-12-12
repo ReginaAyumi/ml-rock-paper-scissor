@@ -3,6 +3,7 @@ Dicoding Submission - Belajar Machine Learning untuk Pemula ⭐⭐⭐⭐⭐
 
 ## Rock Paper Scissor Detection with Machine Learning
 ### Project Criteria
+- Dataset: https://github.com/dicodingacademy/assets/releases/download/release/rockpaperscissors.zip
 - The dataset must be divided into train set and validation set.
 - The size of the validation set must be 40% of the total dataset (training data has 1314 samples, and validation data has 874 samples).
 - Must implement image augmentation.
